@@ -1,7 +1,7 @@
 #!/bin/sh
 SYSTEM_NAME=getshells
 #ROS=$(which ros)
-#SBCL=$(which sbcl)
+SBCL=$(which sbcl)
 
 rm -rf target/
 
