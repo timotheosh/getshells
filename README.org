@@ -1,0 +1,6 @@
+* getshells
+Reports the frequency shells show up in a passwd file
+
+** License
+MIT License
+
